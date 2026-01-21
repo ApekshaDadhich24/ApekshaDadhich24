@@ -1,6 +1,7 @@
 ## Hi there, I'm Apeksha Dadhich👋
 
 🧠 Intrigued by problems. Building in systems.
+
 Interested in how solutions evolve than just writing code.
 Currently focused on writing clean code, refining systems through iteration, and improving a little every day.
 
