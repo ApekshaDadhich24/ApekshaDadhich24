@@ -1,13 +1,10 @@
 ## Hi there, I'm Apeksha Dadhich👋
 
 🧠 Intrigued by problems. Building in systems.
-
 Interested in how solutions evolve than just writing code.
 Currently focused on writing clean code, refining systems through iteration, and improving a little every day.
 
-⚙️ Currently working on :
-- Practicing DSA in Java
-- Building an interactive website using React Three Fiber and Figma.
+⚙️ Currently working on :Practicing DSA in Java
 
 🎓 Education: [B.TECH/2027]
 
@@ -20,6 +17,4 @@ Currently focused on writing clean code, refining systems through iteration, and
 
 🎯 Goals: Build consistency in DSA and ship a complete React Three Fiber–based web project.
 
-📫 Connect with me:
-- 💼 LinkedIn: www.linkedin.com/in/apeksha-dadhich
-- ✉️ Email: dadhichapeksha@gmail.com
+📫 Connect with me: www.linkedin.com/in/apeksha-dadhich | dadhichapeksha@gmail.com
