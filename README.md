@@ -10,9 +10,8 @@ Currently focused on writing clean, refined code and improving a little every da
 🎓 Education: [B.TECH/2027]
 
 🛠 Tech Stack:
-- Languages: c, Java, JavaScript, MATLAB
-- Frontend: HTML, CSS
-- Frameworks: React
+- Languages: c, Java, MATLAB
+- Frontend: HTML, CSS, JavaScript, React
 - Backend: MySQL (learning backend integrations)
 - Tools: Git, GitHub, Figma
 
